@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nft-test/static/css/main.c7579888.chunk.css",
-    "main.js": "/nft-test/static/js/main.aca82a4a.chunk.js",
-    "main.js.map": "/nft-test/static/js/main.aca82a4a.chunk.js.map",
+    "main.js": "/nft-test/static/js/main.a8dd84c7.chunk.js",
+    "main.js.map": "/nft-test/static/js/main.a8dd84c7.chunk.js.map",
     "runtime-main.js": "/nft-test/static/js/runtime-main.66e2c135.js",
     "runtime-main.js.map": "/nft-test/static/js/runtime-main.66e2c135.js.map",
-    "static/js/2.f5d3ca57.chunk.js": "/nft-test/static/js/2.f5d3ca57.chunk.js",
-    "static/js/2.f5d3ca57.chunk.js.map": "/nft-test/static/js/2.f5d3ca57.chunk.js.map",
+    "static/js/2.f2c8c886.chunk.js": "/nft-test/static/js/2.f2c8c886.chunk.js",
+    "static/js/2.f2c8c886.chunk.js.map": "/nft-test/static/js/2.f2c8c886.chunk.js.map",
     "index.html": "/nft-test/index.html",
     "static/css/main.c7579888.chunk.css.map": "/nft-test/static/css/main.c7579888.chunk.css.map",
-    "static/js/2.f5d3ca57.chunk.js.LICENSE.txt": "/nft-test/static/js/2.f5d3ca57.chunk.js.LICENSE.txt"
+    "static/js/2.f2c8c886.chunk.js.LICENSE.txt": "/nft-test/static/js/2.f2c8c886.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.66e2c135.js",
-    "static/js/2.f5d3ca57.chunk.js",
+    "static/js/2.f2c8c886.chunk.js",
     "static/css/main.c7579888.chunk.css",
-    "static/js/main.aca82a4a.chunk.js"
+    "static/js/main.a8dd84c7.chunk.js"
   ]
 }
